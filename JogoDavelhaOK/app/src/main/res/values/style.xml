@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ToastText">
+        <item name="android:textSize">25sp</item> <!-- Tamanho da fonte personalizado -->
+        <item name="android:textColor">#FFF000</item> <!-- Cor do texto do Toast -->
+    </style>
+</resources>
+
